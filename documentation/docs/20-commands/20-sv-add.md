@@ -6,15 +6,15 @@ title: sv add
 
 ## Usage
 
-```bash
+```sh
 npx sv add
 ```
 
-```bash
+```sh
 npx sv add tailwindcss
 ```
 
-```bash
+```sh
 npx sv add tailwindcss --cwd ./my/path
 ```
 

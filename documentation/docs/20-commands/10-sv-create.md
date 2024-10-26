@@ -6,11 +6,11 @@ title: sv create
 
 ## Usage
 
-```bash
+```sh
 npx sv create
 ```
 
-```bash
+```sh
 npx sv create ./my/path
 ```
 
